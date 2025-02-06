@@ -5,13 +5,13 @@ import pyautogui# this is to be able to automatically start the slicer. This ver
 # this is an 3d printer assistant that should run in the background and automatically print a .stl file for you through octoprint
 def downloadfile():
     pass
-def downloadfilewithpicture()
+def downloadfilewithpicture():
     pass
-def downlaoadfilewithpictureandslice().
+def downlaoadfilewithpictureandslice():
     pass
-def downloadfilewithvoice()
+def downloadfilewithvoice():
     pass
-def downloadfileandpicturewithvoice
+def downloadfileandpicturewithvoice():
     pass
 def downloadfileandpictureaandslicewithvoice():
     pass
